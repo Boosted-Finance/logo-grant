@@ -4,7 +4,7 @@ The most voted design will be awarded 15 $BOOST from the core team funds.
 
 This document will be used to aid in the snapshot vote. Each logo will be assigned a number which a user will reference in the snapshot vote (i.e To vote for a logo labelled with 1) visit https://snapshot.page/#/boosted-finance and vote for the 1) option).
 
-Thanks to everyone in the community who've contributed both by posting, reviewing and voting. If you missed out on this grant, keep a look out to our upcoming strategies grant.
+Thanks to everyone in the community who've contributed by posting, reviewing and voting. If you missed out on this grant, keep a look out for our upcoming strategies grant. 
 
 
 ## Top rated submissions
